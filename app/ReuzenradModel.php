@@ -1,6 +1,6 @@
 <?php
 class ReuzenradModel {
-    private $db; // database connectie
+    private $db; 
 
     public function __construct() {
 

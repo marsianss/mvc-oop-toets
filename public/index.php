@@ -1,6 +1,6 @@
 <?php
-include_once('ReuzenradModel.php');
-include_once('ReuzenradView.php');
+include_once('../ReuzenradModel.php');
+include_once('../ReuzenradView.php');
 
 class ReuzenradController {
     public function index() {
